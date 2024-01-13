@@ -1,0 +1,13 @@
+{
+    "nombre": "John Doe",
+    "edad": 30,
+    "estado": true,
+    "trabajos": [
+        "Desarrollador de Software",
+        "Docente"
+    ],
+    "informacion_contacto": {
+        "email": "johndoe@gmail.com",
+        "telefono": 3005050303
+    }
+}
